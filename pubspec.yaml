@@ -1,0 +1,51 @@
+name: safesense
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  file_picker: ^8.1.2
+  path_provider: ^2.1.4
+
+  pdf: ^3.11.1
+  printing: ^5.13.1
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.0
+  firebase_storage: ^12.3.0
+  firebase_messaging: ^15.1.0
+
+  # State management
+  provider: ^6.1.2
+
+  # Local storage
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  shared_preferences: ^2.3.3
+
+  # Audio
+  audioplayers: ^6.1.0
+
+  image_picker: ^1.1.2
+
+  # UI
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/white_noise.mp3

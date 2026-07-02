@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686361766372",
+    "project_id": "safesense-832ab",
+    "storage_bucket": "safesense-832ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686361766372:android:446c866536d8e68f153ff1",
+        "android_client_info": {
+          "package_name": "com.luqman.safesense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGfkiSodaiU-jM-ZUKUyYW4ve77u9GDOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
