@@ -2,6 +2,14 @@
 
 A Flutter + Firebase mobile app that helps parents and caregivers support children with sensory sensitivities. SafeSense keeps everyone around a child on the same page — shared routines, a running log of overstimulation events, handover notes between home and care settings, calming audio for the child, and exportable PDF reports. Three roles — **parent**, **caregiver**, and **child** — each get an interface built for them.
 
+## About
+
+Children who are sensitive to sensory input — sound, light, crowds, changes in routine — can become overstimulated quickly, and the adults who care for them don't always share the same picture of what's going on. A parent might not know what triggered a hard afternoon at school, and a caregiver might not know which routine or calming strategy works best at home.
+
+SafeSense closes that gap. It gives the parent and the caregiver a single shared record for each child: the routines to follow, a log of overstimulation events as they happen, and handover notes passed between home and the care setting so nothing is lost at drop-off or pick-up. The child gets their own simple, low-pressure screen — their routine for the day, calming audio to help them self-regulate, and a way to ask for help.
+
+The goal is consistency and calm: when everyone around a child works from the same information, the child feels safer and more in control of their environment — which is where the name comes from.
+
 ## Features
 
 - **Role-based app** — a role picker on launch routes to a tailored experience for parents, caregivers and children.
